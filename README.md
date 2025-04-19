@@ -1,2 +1,1 @@
-# resumo-do-lab
-Projeto feito durante o bootcamp XP Inc. - Cloud com Inteligência Artificial na Dio: Criando máquinas Virtuais na Azure
+"Este repositório documenta o aprendizado adquirido durante o laboratório dedicado à criação e configuração de máquinas virtuais na plataforma Microsoft Azure. O objetivo é fornecer resumos detalhados, anotações e dicas práticas sobre o uso do Azure, criando um material rico de apoio para estudos e futuras implementações. Com foco na eficiência e na aplicabilidade, este projeto serve como referência tanto para iniciantes quanto para desenvolvedores que desejam expandir seus conhecimentos na computação em nuvem."
